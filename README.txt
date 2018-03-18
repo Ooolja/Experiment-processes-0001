@@ -1,4 +1,4 @@
-﻿1. Натисати стисок планів по frontend
+﻿1. по frontend
 2. Заповнити GitHub
 3. Розібратися в GitHub
 4. Прив’язати GitHub до Git 
