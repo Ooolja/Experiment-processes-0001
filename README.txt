@@ -1,4 +1,4 @@
-1. План frontend
+1. План for frontend
 2. Заповнити GitHub
 3. Розібратися в GitHub
 4. Прив’язати GitHub до Git 
