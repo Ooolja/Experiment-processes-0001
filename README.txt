@@ -5,3 +5,4 @@
 5. Розібратися в графічноме редакторі
 6. Push, merge, rebase, undo?
 7. new line
+8. PrtScr
